@@ -55,19 +55,12 @@ hr {
     border-right: 1px solid lightgray;
 }
 
-ul {
-
-}
-
 li {
     font-size: 1em;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
-
 }
 
 a {
-    text-decoration: none;
-    
+    text-decoration: none;   
 }
 
 a:hover {
